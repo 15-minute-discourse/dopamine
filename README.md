@@ -1,4 +1,4 @@
-#  AI Uprising: Is Superintelligence an Existential Threat? 
+# [Tech Addiction: Are Platforms Hacking Your Brain? ](https://www.youtube.com/watch?v=MaU2Tjxai9A)
 
 Watch the video on YouTube: https://www.youtube.com/watch?v=MaU2Tjxai9A
 
