@@ -1053,47 +1053,27 @@ Dopamine is a neuromodulatory molecule with several important functions in cells
 
 Impact on Cognitive Functions
 
-1.
+1. Attention: Dopamine influences attentional control \[5\]. In the prefrontal cortex, dopamine, along with norepinephrine, plays a critical role in regulating attention \[5\].
 
-Attention: Dopamine influences attentional control \[5\]. In the prefrontal cortex, dopamine, along with norepinephrine, plays a critical role in regulating attention \[5\].
+2. Motivation: Dopamine confers motivational salience, signaling the perceived desirability or aversiveness of an outcome, which propels behavior \[6\]. The VTA (ventral tegmental area) dopaminergic neurons play a central role in reward and motivation \[7\].
 
-2.
-
-Motivation: Dopamine confers motivational salience, signaling the perceived desirability or aversiveness of an outcome, which propels behavior \[6\]. The VTA (ventral tegmental area) dopaminergic neurons play a central role in reward and motivation \[7\].
-
-3.
-
-Motor Control: Dopamine is crucial for motor function \[1\]. The nigrostriatal pathway, projecting from the substantia nigra to the dorsal striatum, is essential for motor control and learning new motor skills \[8\]. Dopamine sets the threshold for initiating actions; high levels lead to increased motor activity, while low levels result in torpor and slowed reactions \[9\].
+3. Motor Control: Dopamine is crucial for motor function \[1\]. The nigrostriatal pathway, projecting from the substantia nigra to the dorsal striatum, is essential for motor control and learning new motor skills \[8\]. Dopamine sets the threshold for initiating actions; high levels lead to increased motor activity, while low levels result in torpor and slowed reactions \[9\].
 
 Medical Conditions Linked to Dopamine Dysfunction
 
-1.
+1. Parkinson's Disease: This degenerative condition is caused by the loss of dopamine-secreting neurons in the substantia nigra, leading to tremors and motor impairment \[3\].
 
-Parkinson's Disease: This degenerative condition is caused by the loss of dopamine-secreting neurons in the substantia nigra, leading to tremors and motor impairment \[3\].
+2. Schizophrenia: Altered dopamine levels are implicated in schizophrenia \[3\]. Most antipsychotic drugs are dopamine antagonists, reducing dopamine activity \[3\]. Psychosis, including schizophrenia, may involve overexcitation of dopamine D2 receptors in the ventral striatum due to interconnected networks based on dopamine, serotonin, and glutamate \[5\].
 
-2.
+3. ADHD (Attention Deficit Hyperactivity Disorder): ADHD is associated with decreased dopamine activity \[3\]. Effective treatments include psychostimulants that increase dopamine and norepinephrine levels in the brain, which mediate their effects through dopamine receptor D1 and adrenoceptor α2 in the prefrontal cortex \[5\].
 
-Schizophrenia: Altered dopamine levels are implicated in schizophrenia \[3\]. Most antipsychotic drugs are dopamine antagonists, reducing dopamine activity \[3\]. Psychosis, including schizophrenia, may involve overexcitation of dopamine D2 receptors in the ventral striatum due to interconnected networks based on dopamine, serotonin, and glutamate \[5\].
+4. Restless Legs Syndrome: Pathology in the posterior hypothalamus, where dopamine neurons project to the spinal cord, may play a role in restless legs syndrome \[10\].
 
-3.
+5. Nausea: The chemoreceptor trigger zone in the brainstem contains D2 dopamine receptors \[11\]. Drugs activating these receptors can cause nausea, while D2-receptor antagonists can be used as anti-nausea drugs \[11\].
 
-ADHD (Attention Deficit Hyperactivity Disorder): ADHD is associated with decreased dopamine activity \[3\]. Effective treatments include psychostimulants that increase dopamine and norepinephrine levels in the brain, which mediate their effects through dopamine receptor D1 and adrenoceptor α2 in the prefrontal cortex \[5\].
+6. Multiple Sclerosis: Dopamine imbalance influences fatigue in multiple sclerosis, inhibiting the production of IL-17 and IFN-γ by peripheral blood mononuclear cells \[12\].
 
-4.
-
-Restless Legs Syndrome: Pathology in the posterior hypothalamus, where dopamine neurons project to the spinal cord, may play a role in restless legs syndrome \[10\].
-
-5.
-
-Nausea: The chemoreceptor trigger zone in the brainstem contains D2 dopamine receptors \[11\]. Drugs activating these receptors can cause nausea, while D2-receptor antagonists can be used as anti-nausea drugs \[11\].
-
-6.
-
-Multiple Sclerosis: Dopamine imbalance influences fatigue in multiple sclerosis, inhibiting the production of IL-17 and IFN-γ by peripheral blood mononuclear cells \[12\].
-
-7.
-
-Addiction: Addictive drugs increase dopamine release or block its reuptake \[1\]. Stimulants like nicotine, cocaine, and methamphetamine increase dopamine levels, which is a primary factor in causing addiction \[13\].
+7. Addiction: Addictive drugs increase dopamine release or block its reuptake \[1\]. Stimulants like nicotine, cocaine, and methamphetamine increase dopamine levels, which is a primary factor in causing addiction \[13\].
 
 Impact of Fear-Evoking Stimuli on Dopamine Transmission
 
@@ -1105,13 +1085,9 @@ Dopamine affects kidney function and heartbeats, with effects depending on dosag
 
 Dopamine's Involvement in Psychosis, Schizophrenia, and ADHD
 
-1.
+1. Psychosis and Schizophrenia: Psychopharmacologist Stephen M. Stahl suggested that psychosis, including schizophrenia, involves interconnected networks based on dopamine, serotonin, and glutamate \[5\]. These networks can cause overexcitation of dopamine D2 receptors in the ventral striatum \[5\].
 
-Psychosis and Schizophrenia: Psychopharmacologist Stephen M. Stahl suggested that psychosis, including schizophrenia, involves interconnected networks based on dopamine, serotonin, and glutamate \[5\]. These networks can cause overexcitation of dopamine D2 receptors in the ventral striatum \[5\].
-
-2.
-
-ADHD: Altered dopamine neurotransmission is implicated in ADHD, leading to impaired cognitive control and problems with attention, inhibitory control, and working memory \[5\]. Psychostimulants that increase dopamine and norepinephrine levels are used to treat ADHD, mediating their clinical effects through dopamine receptor D1 and adrenoceptor α2 in the prefrontal cortex \[5\].
+2. ADHD: Altered dopamine neurotransmission is implicated in ADHD, leading to impaired cognitive control and problems with attention, inhibitory control, and working memory \[5\]. Psychostimulants that increase dopamine and norepinephrine levels are used to treat ADHD, mediating their clinical effects through dopamine receptor D1 and adrenoceptor α2 in the prefrontal cortex \[5\].
 
 ---
 
@@ -1121,9 +1097,7 @@ The concept of technology "rewiring" our brains is a complex one, with evidence 
 
 Here's an in-depth analysis based on the provided sources:
 
-1.
-
-Neuroplasticity and Brain Changes:
+1. Neuroplasticity and Brain Changes:
 
 ◦ The brain's structure and function can be altered by technology use, indicating neuroplasticity \[1, 2\].
 
@@ -1133,9 +1107,7 @@ Neuroplasticity and Brain Changes:
 
 ◦ Internet gaming disorder (IGD) is associated with alterations in brain regions involved in reward processing, impulse control, decision-making, and executive functioning \[5\].
 
-2.
-
-Impact on Cognitive Functions:
+2. Impact on Cognitive Functions:
 
 ◦ Attention and Focus: \* Excessive screen time and multitasking can reduce the ability to concentrate, impair cognitive control, and diminish working memory \[6-8\]. \* Our constant engagement with digital devices may compromise attention spans and problem-solving skills because we are always seeking easy distractions \[6, 7\].
 
@@ -1143,25 +1115,19 @@ Impact on Cognitive Functions:
 
 ◦ Emotional and Social Processing: \* Reduced social cues in online communication can diminish the ability to accurately judge mood and tone, potentially leading to antisocial behavior \[13\]. \* Increased screen time and social media use correlate with decreased self-esteem and increased anxiety and depression \[14\].
 
-3.
-
-Structural Brain Changes:
+3. Structural Brain Changes:
 
 ◦ Gray Matter and Cerebral Cortex: \* Adults with smartphone addiction may exhibit lower gray matter volume and a thinner cerebral cortex, which are critical for movement, memory, emotions, decision-making, and problem-solving \[2\].
 
 ◦ Limbic vs. Prefrontal Cortex Activity: \* Constant engagement with instant gratification can lead to overactivity in the limbic brain (emotions) and underactivity in the prefrontal cortex (future planning, problem-solving) \[7\].
 
-4.
-
-Dopamine and Addiction:
+4. Dopamine and Addiction:
 
 ◦ Dopamine's Role: \* Dopamine motivates us to seek pleasure, and addictive experiences increase dopamine release \[15\]. \* Repeated consumption of pleasurable stimuli can lead to dependence, requiring more stimuli to achieve the same level of satisfaction \[1\].
 
 ◦ Digital Addiction: \* Smartphones and digital media act as "modern-day hypodermic needles," delivering quick hits of attention, validation, and distraction \[16\]. \* The easy accessibility of digital vices exacerbates dependence, with few limitations to force pausing \[1\].
 
-5.
-
-Counterarguments and Nuances:
+5. Counterarguments and Nuances:
 
 ◦ Not a Literal Rewiring: \* Some argue that the term "rewiring" is an oversimplification. Dopamine fasting, for instance, is not about reducing dopamine levels but about controlling impulsive behaviors \[17\].
 
@@ -1169,9 +1135,7 @@ Counterarguments and Nuances:
 
 ◦ Adaptive Skills: \* Learning to delay gratification and practicing self-control can promote positive social behavior and improve cognitive abilities \[19, 20\].
 
-6.
-
-Digital Detox and Mitigation Strategies:
+6. Digital Detox and Mitigation Strategies:
 
 ◦ Digital Detox Benefits: \* Refraining from digital devices can reduce stress, anxiety, and depressive symptoms while improving well-being and life satisfaction \[21\]. \* It can also improve physical health, such as reducing eye strain and neck pain \[21\].
 
@@ -1451,9 +1415,7 @@ Digital nudges are subtle design interventions that can steer users toward makin
 
 Examples of digital nudges that could be used to make social media less addictive:
 
-1.
-
-Usage Reminders and Time Limits:
+1. Usage Reminders and Time Limits:
 
 ◦ Explanation: Social media platforms can incorporate built-in timers that notify users when they have reached a predetermined time limit on the app \[2\]. This raises awareness of usage patterns and encourages users to take breaks \[2\].
 
@@ -1461,9 +1423,7 @@ Usage Reminders and Time Limits:
 
 ◦ Implementation: Apps can send a notification like, "You've been on this app for 30 minutes. Consider taking a break" \[2\].
 
-2.
-
-Reducing Notifications:
+2. Reducing Notifications:
 
 ◦ Explanation: Social media platforms can provide users with options to customize or reduce the number of notifications they receive \[2\].
 
@@ -1471,9 +1431,7 @@ Reducing Notifications:
 
 ◦ Implementation: Allow users to mute notifications during specific periods, such as work hours or evenings, or to summarize notifications instead of sending them individually \[2\].
 
-3.
-
-"Paper Phone" Concept:
+3. "Paper Phone" Concept:
 
 ◦ Explanation: Inspired by Google's "Paper Phone," social media apps could offer simplified, offline versions that provide essential information without the addictive features \[1-3\].
 
@@ -1481,9 +1439,7 @@ Reducing Notifications:
 
 ◦ Implementation: A "daily agenda" feature could be printed, listing important reminders and tasks, reducing the need to check the phone frequently \[2, 3\].
 
-4.
-
-Invisibility of Likes:
+4. Invisibility of Likes:
 
 ◦ Explanation: Social media platforms can make the number of likes on a user’s post invisible to the user \[4\].
 
@@ -1491,9 +1447,7 @@ Invisibility of Likes:
 
 ◦ Implementation: Some platforms have already begun exploring this alternative method to reduce the addictive nature of seeking approval through metrics \[4\].
 
-5.
-
-Promoting Delayed Gratification:
+5. Promoting Delayed Gratification:
 
 ◦ Explanation: Encourage users to engage in activities that offer rewards after effort rather than instant gratification \[5, 6\].
 
@@ -1501,9 +1455,7 @@ Promoting Delayed Gratification:
 
 ◦ Implementation: Social media apps could nudge users to set long-term goals or participate in challenges that provide a sense of accomplishment \[5, 6\].
 
-6.
-
-Mindful Check-ins:
+6. Mindful Check-ins:
 
 ◦ Explanation: Implement pop-up reminders that prompt users to reflect on their current mood and the purpose of their social media use \[3\].
 
@@ -1511,9 +1463,7 @@ Mindful Check-ins:
 
 ◦ Implementation: A pop-up might ask, "How are you feeling right now?" or "What do you hope to achieve by using this app?" \[3\].
 
-7.
-
-Highlighting Positive Content:
+7. Highlighting Positive Content:
 
 ◦ Explanation: Algorithms can be adjusted to prioritize content that promotes well-being and positive interactions \[7\].
 
@@ -1521,9 +1471,7 @@ Highlighting Positive Content:
 
 ◦ Implementation: Emphasize posts from close friends, uplifting stories, and educational content over sensationalized news \[7\].
 
-8.
-
-Reducing Infinite Scrolling:
+8. Reducing Infinite Scrolling:
 
 ◦ Explanation: Limit or eliminate the infinite scrolling feature that encourages endless consumption of content \[4\].
 
@@ -1531,9 +1479,7 @@ Reducing Infinite Scrolling:
 
 ◦ Implementation: After a certain amount of scrolling, the app could display a message like, "You've reached the end of today's new content" \[4\].
 
-9.
-
-Promoting Offline Activities:
+9. Promoting Offline Activities:
 
 ◦ Explanation: Social media platforms could integrate features that suggest or reward offline activities \[8\].
 
@@ -1541,9 +1487,7 @@ Promoting Offline Activities:
 
 ◦ Implementation: The app might suggest local events, outdoor activities, or hobbies based on the user's interests \[8\].
 
-10.
-
-Social Pressure Awareness:
+10. Social Pressure Awareness:
 
 • Explanation: Provide users with information about the potential negative impacts of social media, such as FOMO and social pressure \[8, 9\].
 
