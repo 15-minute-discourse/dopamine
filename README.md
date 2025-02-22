@@ -29,6 +29,44 @@ We'll uncover:
 
 ---
 
+- [Tech Addiction: Are Social Media Platforms Hacking Your Brain?](#tech-addiction-are-social-media-platforms-hacking-your-brain)
+  - [Dopamine: Functions, Pathways, and Effects](#dopamine-functions-pathways-and-effects)
+  - [Dopamine, Rewards, and Compulsion Loops](#dopamine-rewards-and-compulsion-loops)
+  - [Dopamine: Reward Prediction Error and Temporal Difference Learning](#dopamine-reward-prediction-error-and-temporal-difference-learning)
+  - [Dopamine, Wanting, and Liking: Reward Processing and Addiction](#dopamine-wanting-and-liking-reward-processing-and-addiction)
+  - [Dopamine Exploitation: Digital Media's Impact on Engagement and Well-being](#dopamine-exploitation-digital-medias-impact-on-engagement-and-well-being)
+  - [Short-Form Content: Effects on Cognition, Attention, and Well-being](#short-form-content-effects-on-cognition-attention-and-well-being)
+  - [Dopamine, Digital Addiction, and the Pursuit of Well-being](#dopamine-digital-addiction-and-the-pursuit-of-well-being)
+  - [Digital Binging: Limitations, Consequences, and Mitigation Strategies](#digital-binging-limitations-consequences-and-mitigation-strategies)
+  - [The Effects of Excessive Online Content Consumption](#the-effects-of-excessive-online-content-consumption)
+  - [Internet Addiction: Diagnosis and Assessment](#internet-addiction-diagnosis-and-assessment)
+  - [Digital Wellbeing: Challenges, Strategies, and Corporate Initiatives](#digital-wellbeing-challenges-strategies-and-corporate-initiatives)
+  - [Digital Detox: Benefits, Types, and Considerations](#digital-detox-benefits-types-and-considerations)
+  - [Strategies for Healthy Technology Use and Digital Well-being](#strategies-for-healthy-technology-use-and-digital-well-being)
+  - [Addiction in the Digital Age: Dopamine, Access, and Solutions](#addiction-in-the-digital-age-dopamine-access-and-solutions)
+  - [The Neuroscience of Pleasure: Binging, Dopamine, and Homeostasis](#the-neuroscience-of-pleasure-binging-dopamine-and-homeostasis)
+  - [Dopamine: The Neuroscience of Motivation, Reward, and Addiction](#dopamine-the-neuroscience-of-motivation-reward-and-addiction)
+  - [Dopamine Fasting and Digital Detox: Misconceptions, Methods, Benefits](#dopamine-fasting-and-digital-detox-misconceptions-methods-benefits)
+  - [Dopamine Fasting: Managing Impulsive Behavior and Technology Use](#dopamine-fasting-managing-impulsive-behavior-and-technology-use)
+  - [Dopamine Fasting: Risks, Misconceptions, and Ineffective Strategies](#dopamine-fasting-risks-misconceptions-and-ineffective-strategies)
+  - [Dopamine, Motivation, and Reward: Understanding Brain Function](#dopamine-motivation-and-reward-understanding-brain-function)
+  - [Dopamine: Roles, Functions, and Medical Implications](#dopamine-roles-functions-and-medical-implications)
+  - [Technology's Impact on Brain Structure and Function](#technologys-impact-on-brain-structure-and-function)
+  - [Doomscrolling: Impacts, Effects, and Strategies for Healthier Media Consumption](#doomscrolling-impacts-effects-and-strategies-for-healthier-media-consumption)
+  - [Fostering Healthy Technology Use: A Comprehensive Guide](#fostering-healthy-technology-use-a-comprehensive-guide)
+  - [Digital Nudges for Mindful Social Media Use](#digital-nudges-for-mindful-social-media-use)
+  - [Dopamine, Self-Control, and Combating "Brain Rot"](#dopamine-self-control-and-combating-brain-rot)
+  - [Video Games, Dopamine, and Compulsion Loops: An Analysis](#video-games-dopamine-and-compulsion-loops-an-analysis)
+  - [Psychology of Social Media: Addiction, Mood, and Detox](#psychology-of-social-media-addiction-mood-and-detox)
+  - [Dopamine, Technology, and the Pursuit of Well-being](#dopamine-technology-and-the-pursuit-of-well-being)
+  - [Dopamine Feedback Loops: Addiction, Attention, and Digital Balance](#dopamine-feedback-loops-addiction-attention-and-digital-balance)
+  - [Dopamine Feedback Loops: Societal Impact, Addiction, and Well-being](#dopamine-feedback-loops-societal-impact-addiction-and-well-being)
+  - [Dopamine Feedback Loops: Stakeholders and Impact](#dopamine-feedback-loops-stakeholders-and-impact)
+  - [Technology Addiction: Trends, Impacts, and Mitigation Strategies](#technology-addiction-trends-impacts-and-mitigation-strategies)
+  - [Dopamine, Technology, and Addiction: A Contemporary Debate](#dopamine-technology-and-addiction-a-contemporary-debate)
+
+---
+
 ## Dopamine: Functions, Pathways, and Effects
 
 Dopamine is a neuromodulatory molecule and organic chemical of the catecholamine and phenethylamine families that is synthesized in the brain, kidneys, plants, and most animals \[1\]. In the brain, dopamine functions as a neurotransmitter, sending signals between nerve cells \[1\]. Dopamine constitutes about 80% of the catecholamine content in the brain \[1\].
